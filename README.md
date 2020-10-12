@@ -1,2 +1,2 @@
 # new-git-project
-index.htmll
+index.html
